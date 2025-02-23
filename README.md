@@ -26,21 +26,6 @@
 5. **Protect Against Credential Stuffing Attacks**:
    - Protect your system from automated attacks that target known exposed passwords (credential stuffing).
 
-### **For Individuals**
-1. **Personal Account Protection**:
-   - Ensure your password is safe from breaches and hasn’t been exposed in known data leaks.
-
-2. **Strengthen Online Security**:
-   - Get immediate alerts if your password has been compromised, and change it before it becomes a security risk.
-
-3. **Better Password Practices**:
-   - Learn about the importance of using strong, unique passwords for each account. Avoid reusing passwords that have been compromised.
-
-4. **Prevent Identity Theft**:
-   - By using the tool, you can avoid identity theft caused by attackers gaining access to your accounts using previously leaked passwords.
-
-5. **Privacy Guaranteed**:
-   - Your password is never shared with the API in plaintext. Only the hashed version is sent for checking, ensuring your personal information stays secure.
 
 ---
 
@@ -58,9 +43,3 @@
 
 To use **PwnCheck**, you can either implement the frontend JavaScript solution, or set up the backend using Python, Node.js, or your preferred backend technology.
 
-### Frontend Integration (JavaScript)
-You can integrate this solution directly into your website's frontend using JavaScript. Here's a sample implementation:
-
-1. Include **crypto-js** in your HTML:
-   ```html
-   <script src="https://cdn.jsdelivr.net/npm/crypto-js@3.3.0-1/crypto-js.js"></script>
